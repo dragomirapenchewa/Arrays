@@ -1,0 +1,7 @@
+C:\Users\1212-3\Desktop\Mira9a\arrays\R2\bin\Debug\R2.exe.config
+C:\Users\1212-3\Desktop\Mira9a\arrays\R2\bin\Debug\R2.exe
+C:\Users\1212-3\Desktop\Mira9a\arrays\R2\bin\Debug\R2.pdb
+C:\Users\1212-3\Desktop\Mira9a\arrays\R2\obj\Debug\R2.csproj.AssemblyReference.cache
+C:\Users\1212-3\Desktop\Mira9a\arrays\R2\obj\Debug\R2.csproj.CoreCompileInputs.cache
+C:\Users\1212-3\Desktop\Mira9a\arrays\R2\obj\Debug\R2.exe
+C:\Users\1212-3\Desktop\Mira9a\arrays\R2\obj\Debug\R2.pdb

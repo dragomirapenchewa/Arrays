@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1212-3\\Desktop\\Mira9a\\arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364C3C43-670B-4F2F-A51F-B809B1514D7B}|NaidulgotoIme\\NaidulgotoIme.csproj|c:\\users\\1212-3\\desktop\\mira9a\\arrays\\naidulgotoime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364C3C43-670B-4F2F-A51F-B809B1514D7B}|NaidulgotoIme\\NaidulgotoIme.csproj|solutionrelative:naidulgotoime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{868523E0-3B22-43A3-8123-2E924091F796}|Masivi\\R1.csproj|C:\\Users\\1212-3\\Desktop\\Mira9a\\arrays\\masivi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{868523E0-3B22-43A3-8123-2E924091F796}|Masivi\\R1.csproj|solutionrelative:masivi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90CFDC9A-02E6-4906-9684-002278B2970C}|R2\\R2.csproj|c:\\users\\1212-3\\desktop\\mira9a\\arrays\\r2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90CFDC9A-02E6-4906-9684-002278B2970C}|R2\\R2.csproj|solutionrelative:r2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-3\\Desktop\\Mira9a\\arrays\\NaidulgotoIme\\Program.cs",
+              "RelativeDocumentMoniker": "NaidulgotoIme\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-3\\Desktop\\Mira9a\\arrays\\NaidulgotoIme\\Program.cs",
+              "RelativeToolTip": "NaidulgotoIme\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T06:22:33.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-3\\Desktop\\Mira9a\\arrays\\R2\\Program.cs",
+              "RelativeDocumentMoniker": "R2\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-3\\Desktop\\Mira9a\\arrays\\R2\\Program.cs",
+              "RelativeToolTip": "R2\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T10:53:47.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1212-3\\Desktop\\Mira9a\\arrays\\Masivi\\Program.cs",
+              "RelativeDocumentMoniker": "Masivi\\Program.cs",
+              "ToolTip": "C:\\Users\\1212-3\\Desktop\\Mira9a\\arrays\\Masivi\\Program.cs",
+              "RelativeToolTip": "Masivi\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T10:19:31.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

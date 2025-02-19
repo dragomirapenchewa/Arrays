@@ -1,0 +1,7 @@
+C:\Users\1212-3\Desktop\Mira9a\arrays\Masivi\bin\Debug\Masivi.exe.config
+C:\Users\1212-3\Desktop\Mira9a\arrays\Masivi\bin\Debug\Masivi.exe
+C:\Users\1212-3\Desktop\Mira9a\arrays\Masivi\bin\Debug\Masivi.pdb
+C:\Users\1212-3\Desktop\Mira9a\arrays\Masivi\obj\Debug\R1.csproj.AssemblyReference.cache
+C:\Users\1212-3\Desktop\Mira9a\arrays\Masivi\obj\Debug\R1.csproj.CoreCompileInputs.cache
+C:\Users\1212-3\Desktop\Mira9a\arrays\Masivi\obj\Debug\Masivi.exe
+C:\Users\1212-3\Desktop\Mira9a\arrays\Masivi\obj\Debug\Masivi.pdb

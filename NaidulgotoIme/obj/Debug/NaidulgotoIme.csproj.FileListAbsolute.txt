@@ -1,0 +1,7 @@
+C:\Users\1212-3\Desktop\Mira9a\arrays\NaidulgotoIme\bin\Debug\NaidulgotoIme.exe.config
+C:\Users\1212-3\Desktop\Mira9a\arrays\NaidulgotoIme\bin\Debug\NaidulgotoIme.exe
+C:\Users\1212-3\Desktop\Mira9a\arrays\NaidulgotoIme\bin\Debug\NaidulgotoIme.pdb
+C:\Users\1212-3\Desktop\Mira9a\arrays\NaidulgotoIme\obj\Debug\NaidulgotoIme.csproj.AssemblyReference.cache
+C:\Users\1212-3\Desktop\Mira9a\arrays\NaidulgotoIme\obj\Debug\NaidulgotoIme.csproj.CoreCompileInputs.cache
+C:\Users\1212-3\Desktop\Mira9a\arrays\NaidulgotoIme\obj\Debug\NaidulgotoIme.exe
+C:\Users\1212-3\Desktop\Mira9a\arrays\NaidulgotoIme\obj\Debug\NaidulgotoIme.pdb
