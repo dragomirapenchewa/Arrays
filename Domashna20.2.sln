@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KoeChislokolkoPuti se srestha", "KoeChislokolkoPuti se srestha\KoeChislokolkoPuti se srestha.csproj", "{F2EC6622-20CD-4C42-B7B8-5DA148F098D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChetniChisla", "ChetniChisla\ChetniChisla.csproj", "{E27567B9-16A8-4DC1-A665-0C095E735CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2EC6622-20CD-4C42-B7B8-5DA148F098D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2EC6622-20CD-4C42-B7B8-5DA148F098D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2EC6622-20CD-4C42-B7B8-5DA148F098D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2EC6622-20CD-4C42-B7B8-5DA148F098D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E27567B9-16A8-4DC1-A665-0C095E735CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E27567B9-16A8-4DC1-A665-0C095E735CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E27567B9-16A8-4DC1-A665-0C095E735CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E27567B9-16A8-4DC1-A665-0C095E735CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1E5BD5C-CBD2-4D91-AD9F-240437805222}
+	EndGlobalSection
+EndGlobal
